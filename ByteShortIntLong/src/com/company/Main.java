@@ -26,5 +26,15 @@ public class Main {
         long myMaxLongValue = Long.MAX_VALUE;
         System.out.println("Long Minimum Value = " + myMinLongValue);
         System.out.println("Long Maximum Value = " + myMaxLongValue);
+
+        // Casting and multi-primitive math
+        byte castedByte = (byte) (myMinByteValue / 2);
+        byte byteValue = 10;
+        short shortValue = 20;
+        int intValue = 50;
+        long longTotal = 50000L + 10 * (byteValue + shortValue + intValue);
+        System.out.println(longTotal);
+        short shortTotal = (short) (1000 + 10 * (byteValue + shortValue + intValue));
+        System.out.println(shortTotal);
     }
 }
