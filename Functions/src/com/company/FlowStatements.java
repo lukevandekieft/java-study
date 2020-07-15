@@ -6,6 +6,8 @@ public class FlowStatements {
   public static void main(String[] args) {
     System.out.println("Switch example: " + SwitchExample(6));
     System.out.println("For Loop example: " + ForLoopExample(5));
+    WhileLoopExample(5);
+    DoWhileLoopExample(3);
   }
 
   public static Object SwitchExample(int day) {
@@ -28,5 +30,21 @@ public class FlowStatements {
       multiplier = multiplier * 2;
     }
     return multiplier;
+  }
+
+  public static void WhileLoopExample(int countdown) {
+    while (countdown > 0) {
+      System.out.println("Count " + countdown + "...");
+      countdown--;
+    }
+    System.out.println("Blast off!!");
+  }
+
+  public static void DoWhileLoopExample(int countdown) {
+    do {
+      System.out.println("Count " + countdown + "...");
+      countdown--;
+    } while (countdown > 0);
+    System.out.println("Blast off!!");
   }
 }
