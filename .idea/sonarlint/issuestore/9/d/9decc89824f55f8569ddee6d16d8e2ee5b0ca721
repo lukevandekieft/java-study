@@ -1,0 +1,13 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¡ÿÿÿÿÿ
+c	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û„Ö
+J
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ƒ§ûÜøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ´€¬
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ƒ§ûÜøÿÿÿÿ
+c	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ó à
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ•§–ùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÆµÚûÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(İçºû
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(İçºû

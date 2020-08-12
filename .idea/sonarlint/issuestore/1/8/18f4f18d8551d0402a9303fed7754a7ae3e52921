@@ -1,0 +1,28 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éƒûæúÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "maxInt".(Äò—Îüÿÿÿÿ
+]	java:S125	"<This block of commented-out lines of code should be removed.(…§íîúÿÿÿÿ8 …êû».
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´ñ§ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Åöûä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ð÷î‹øÿÿÿÿ
+F
+java:S1481"+Remove this unused "maxInt" local variable.(Äò—Îüÿÿÿÿ
+K
+java:S1481"0Remove this unused "myLongValue" local variable.(·ñ×Ùùÿÿÿÿ
+J
+java:S1481!"/Remove this unused "castedByte" local variable.(¸„»Ùøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô•¿™
+Y
+java:S1854!">Remove this useless assignment to local variable "castedByte".(¸„»Ùøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Èë§Øÿÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(½ý†”ùÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÊÒûÒûÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "myLongValue".(·ñ×Ùùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(••³¶øÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "myValue".(•ŸÃ¯ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(À†˜Ùÿÿÿÿÿ
+G
+java:S1481",Remove this unused "myValue" local variable.(•ŸÃ¯ÿÿÿÿÿ
