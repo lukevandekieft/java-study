@@ -14,7 +14,7 @@ public class Functions {
             int finalScore = score + bonus;
             System.out.println("Printed call score: " + finalScore);
         } else {
-            System.out.println("Game not over!");
+            System.out.println("Game is not over!");
         }
     }
 
