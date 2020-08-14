@@ -13,3 +13,7 @@ I
 HelloWorld/src/Hello.java,2\4\2492084083831ee0c399c1ff7e672563e8af79f2
 T
 $Integer/src/com/company/Integer.java,f\c\fc42dad93fbc588b1fc344351c50cbff80b3a147
+I
+HelloWorld/HelloWorld.iml,c\8\c8f082cef6b0ad8f1f3c8844da7c8a7bf506b9c8
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
