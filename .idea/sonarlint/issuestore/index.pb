@@ -11,8 +11,6 @@ b
 -Functions/src/com/company/FlowStatements.java,9\d\9decc89824f55f8569ddee6d16d8e2ee5b0ca721
 I
 HelloWorld/src/Hello.java,2\4\2492084083831ee0c399c1ff7e672563e8af79f2
-T
-$Integer/src/com/company/Integer.java,f\c\fc42dad93fbc588b1fc344351c50cbff80b3a147
 I
 HelloWorld/HelloWorld.iml,c\8\c8f082cef6b0ad8f1f3c8844da7c8a7bf506b9c8
 9
