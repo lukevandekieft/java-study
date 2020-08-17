@@ -13,14 +13,14 @@
 
 ## Environment
 
-####Java Udemy
+**Java Udemy:**
 - IntelliJ Pro 2020.1.3
 - Open JDK 1.8.0
 - Java version 11
 - Maven 3.6.1
 - BreTools 1.0.13
 
-####Cucumber Pluralsight
+**Cucumber Pluralsight:**
 - IntelliJ Pro 2020.1.3
 - Open JDK 1.8.0
 - Java version 11
