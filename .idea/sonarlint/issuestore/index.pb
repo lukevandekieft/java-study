@@ -15,3 +15,13 @@ I
 HelloWorld/HelloWorld.iml,c\8\c8f082cef6b0ad8f1f3c8844da7c8a7bf506b9c8
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+b
+2IntegerExample/src/com/company/IntegerExample.java,f\d\fd4fa2eb51f5ce123e1ab21e73690784b6e30aa5
+b
+2ScannerExample/src/com/company/ScannerExample.java,3\5\3593b8c38597defdbe3c710f0fca4a1361c0ae7f
+w
+Gmorning-fresh/src/test/resources/com/pluralsight/bdd/calculator.feature,7\b\7bfd5d1c7c8b3e6f3a030a3de6dfcf6d4b59c614
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+s
+Cmorning-fresh/src/test/java/com/pluralsight/bdd/CalculatorTest.java,b\c\bc3ab9b28b22f99f0ee35c5c8bf8355ae54bf8cc
