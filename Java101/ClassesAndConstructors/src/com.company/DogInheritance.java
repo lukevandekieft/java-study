@@ -14,6 +14,7 @@ public class DogInheritance extends Animal {
     this.eyes = eyes;
     this.legs = legs;
     this.tail = tail;
+    
   }
 
   // we can override an inherited function to give it updated functionality
