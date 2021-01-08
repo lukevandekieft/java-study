@@ -19,4 +19,8 @@ public class Animal {
   public void eat() {
     System.out.println("Yum!");
   }
+
+  public void move(int speed) {
+    System.out.println("Animal moved at speed " + speed);
+  }
 }

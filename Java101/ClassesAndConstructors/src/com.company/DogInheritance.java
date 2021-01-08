@@ -23,4 +23,22 @@ public class DogInheritance extends Animal {
     System.out.println("CHEW then...");
     super.eat();
   }
+
+  // invokes parent move
+  // because "walk" uses super.move it is tied to its parent "move" function
+  public void walk() {
+    super.move(5);
+  }
+
+  // invokes override move
+  // by using regular move it'll look for the most relevant function of that name, in this case @Override move
+  public void run() {
+    move(20);
+  }
+
+  @Override
+  public void move(int speed) {
+    System.out.println("SPECIAL move!");
+    super.move(speed);
+  }
 }

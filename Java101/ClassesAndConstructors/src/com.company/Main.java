@@ -8,5 +8,8 @@ public class Main {
 
     // since dog extends dog it's able to use animal's "eat" function
     dog.eat();
+
+    dog.run();
+    dog.walk();
   }
 }
