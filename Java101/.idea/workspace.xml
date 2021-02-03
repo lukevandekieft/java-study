@@ -1,104 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f8c6204-8078-4efe-9d66-5edf4bd20a92" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java101.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/azureSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/587a5d259d15ce6db21fdbf64bfe345f4c235920" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9decc89824f55f8569ddee6d16d8e2ee5b0ca721" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb025a4aee39b89a61b98c95e6b795ebec6850ae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd4fa2eb51f5ce123e1ab21e73690784b6e30aa5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/src/com/company/ByteShortIntLong.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharAndBoolean/src/com/company/CharAndBoolean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassesAndConstructors/ClassesAndConstructors.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassesAndConstructors/src/com.company/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassesAndConstructors/src/com.company/DogInheritance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassesAndConstructors/src/com.company/Fish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassesAndConstructors/src/com.company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FloatAndDouble/src/com/company/FloatAndDouble.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Functions.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/src/com/company/FlowStatements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/src/com/company/Functions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/out/production/HelloWorld/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegerExample/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegerExample/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegerExample/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegerExample/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegerExample/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegerExample/IntegerExample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegerExample/src/com/company/IntegerExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScannerExample/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScannerExample/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScannerExample/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScannerExample/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScannerExample/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScannerExample/ScannerExample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScannerExample/src/com/company/ScannerExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ByteShortIntLong/com/company/ByteShortIntLong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CharAndBoolean/com/company/CharAndBoolean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassesAndConstructors/com/company/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassesAndConstructors/com/company/DogInheritance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassesAndConstructors/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FloatAndDouble/com/company/FloatAndDouble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Functions/com/company/FlowStatements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Functions/com/company/Functions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntegerExample/com/company/IntegerExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/META-INF/JavaStudy.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/ByteShortIntLong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/CharAndBoolean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/FloatAndDouble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/FlowStatements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/Functions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/IntegerExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/ScannerExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScannerExample/com/company/ScannerExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+    <list default="true" id="d46a2d91-6c09-4b3f-aff8-806fb4636232" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BasicConcepts/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lukev/study/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/lukev/study/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/ByteShortIntLong/src/com/company/ByteShortIntLong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ByteShortIntLong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/CharAndBoolean/src/com/company/CharAndBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/CharAndBoolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/ClassesAndConstructors/src/com.company/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ClassesAndConstructors/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/ClassesAndConstructors/src/com.company/DogInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ClassesAndConstructors/DogInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/ClassesAndConstructors/src/com.company/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ClassesAndConstructors/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/ClassesAndConstructors/src/com.company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ClassesAndConstructors/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/FloatAndDouble/FloatAndDouble.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/FloatAndDouble/src/com/company/FloatAndDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/FloatAndDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/Functions/src/com/company/FlowStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/FlowStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/Functions/src/com/company/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/HelloWorld/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/IntegerExample/src/com/company/IntegerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/IntegerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java1012/ScannerExample/src/com/company/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ScannerExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -110,7 +44,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1nym6aKGTc7RSlixgyszPELsXAY" />
+  <component name="ProjectId" id="1nzMVKPJEKjFvkq9oDmjKRjRkMD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -121,9 +55,83 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/BasicConcepts/ClassesAndConstructors" />
+      <recent name="$PROJECT_DIR$/src/BasicConcepts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ByteShortIntLong">
+    <configuration name="ByteShortIntLong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicConcepts.ByteShortIntLong" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicConcepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlowStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicConcepts.FlowStatements" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicConcepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicConcepts.IntegerExample" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicConcepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicConcepts.ClassesAndConstructors.Main" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicConcepts.ClassesAndConstructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicConcepts.ScannerExample" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicConcepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -135,20 +143,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ByteShortIntLong" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ScannerExample" />
+        <item itemvalue="Application.IntegerExample" />
+        <item itemvalue="Application.FlowStatements" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8f8c6204-8078-4efe-9d66-5edf4bd20a92" name="Default Changelist" comment="" />
-      <created>1612370530099</created>
+      <changelist id="d46a2d91-6c09-4b3f-aff8-806fb4636232" name="Default Changelist" comment="" />
+      <created>1612388488468</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612370530099</updated>
-      <workItem from="1612370531133" duration="3522000" />
+      <updated>1612388488468</updated>
+      <workItem from="1612388490626" duration="2555000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="105" key="#Project_Structure" timestamp="1612388506660">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="447" y="105" key="#Project_Structure/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.992@0.23.1920.992" timestamp="1612388506660" />
+    <state x="698" y="333" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612388850054">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="698" y="333" key="#com.intellij.fileTypes.FileTypeChooser/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.992@0.23.1920.992" timestamp="1612388850054" />
+    <state width="1750" height="257" key="GridCell.Tab.0.bottom" timestamp="1612391275966">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1750" height="257" key="GridCell.Tab.0.bottom/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.992@0.23.1920.992" timestamp="1612390370633" />
+    <state width="1750" height="257" key="GridCell.Tab.0.bottom/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.995@0.23.1920.995" timestamp="1612391261196" />
+    <state width="1750" height="257" key="GridCell.Tab.0.bottom/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.995@1920.23.1920.1057" timestamp="1612391275966" />
+    <state width="1750" height="257" key="GridCell.Tab.0.center" timestamp="1612391275965">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1750" height="257" key="GridCell.Tab.0.center/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.992@0.23.1920.992" timestamp="1612390370632" />
+    <state width="1750" height="257" key="GridCell.Tab.0.center/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.995@0.23.1920.995" timestamp="1612391261195" />
+    <state width="1750" height="257" key="GridCell.Tab.0.center/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.995@1920.23.1920.1057" timestamp="1612391275965" />
+    <state width="1750" height="257" key="GridCell.Tab.0.left" timestamp="1612391275964">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1750" height="257" key="GridCell.Tab.0.left/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.992@0.23.1920.992" timestamp="1612390370631" />
+    <state width="1750" height="257" key="GridCell.Tab.0.left/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.995@0.23.1920.995" timestamp="1612391261195" />
+    <state width="1750" height="257" key="GridCell.Tab.0.left/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.995@1920.23.1920.1057" timestamp="1612391275964" />
+    <state width="1750" height="257" key="GridCell.Tab.0.right" timestamp="1612391275966">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1750" height="257" key="GridCell.Tab.0.right/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.992@0.23.1920.992" timestamp="1612390370633" />
+    <state width="1750" height="257" key="GridCell.Tab.0.right/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.995@0.23.1920.995" timestamp="1612391261195" />
+    <state width="1750" height="257" key="GridCell.Tab.0.right/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.995@1920.23.1920.1057" timestamp="1612391275966" />
   </component>
 </project>
