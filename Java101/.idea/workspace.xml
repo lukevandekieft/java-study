@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f8c6204-8078-4efe-9d66-5edf4bd20a92" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java101.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/azureSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/587a5d259d15ce6db21fdbf64bfe345f4c235920" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9decc89824f55f8569ddee6d16d8e2ee5b0ca721" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb025a4aee39b89a61b98c95e6b795ebec6850ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd4fa2eb51f5ce123e1ab21e73690784b6e30aa5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/src/com/company/ByteShortIntLong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/src/com/company/CharAndBoolean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassesAndConstructors/ClassesAndConstructors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassesAndConstructors/src/com.company/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassesAndConstructors/src/com.company/DogInheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassesAndConstructors/src/com.company/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassesAndConstructors/src/com.company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/src/com/company/FloatAndDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Functions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/src/com/company/FlowStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/src/com/company/Functions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/out/production/HelloWorld/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegerExample/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegerExample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegerExample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegerExample/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegerExample/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegerExample/IntegerExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegerExample/src/com/company/IntegerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScannerExample/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScannerExample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScannerExample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScannerExample/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScannerExample/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScannerExample/ScannerExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScannerExample/src/com/company/ScannerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ByteShortIntLong/com/company/ByteShortIntLong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CharAndBoolean/com/company/CharAndBoolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassesAndConstructors/com/company/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassesAndConstructors/com/company/DogInheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassesAndConstructors/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FloatAndDouble/com/company/FloatAndDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Functions/com/company/FlowStatements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Functions/com/company/Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IntegerExample/com/company/IntegerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/META-INF/JavaStudy.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/ByteShortIntLong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/CharAndBoolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/FloatAndDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/FlowStatements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/IntegerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/com/company/ScannerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScannerExample/com/company/ScannerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nym6aKGTc7RSlixgyszPELsXAY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f8c6204-8078-4efe-9d66-5edf4bd20a92" name="Default Changelist" comment="" />
+      <created>1612370530099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612370530099</updated>
+      <workItem from="1612370531133" duration="3522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
