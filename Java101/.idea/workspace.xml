@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46a2d91-6c09-4b3f-aff8-806fb4636232" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BasicConcepts/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/HondaCivic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lukev/study/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/lukev/study/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/ByteShortIntLong/src/com/company/ByteShortIntLong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ByteShortIntLong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/CharAndBoolean/src/com/company/CharAndBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/CharAndBoolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/ClassesAndConstructors/src/com.company/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ClassesAndConstructors/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/ClassesAndConstructors/src/com.company/DogInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ClassesAndConstructors/DogInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/ClassesAndConstructors/src/com.company/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ClassesAndConstructors/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/ClassesAndConstructors/src/com.company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ClassesAndConstructors/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/FloatAndDouble/FloatAndDouble.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/FloatAndDouble/src/com/company/FloatAndDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/FloatAndDouble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/Functions/src/com/company/FlowStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/FlowStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/Functions/src/com/company/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/Functions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/HelloWorld/src/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/IntegerExample/src/com/company/IntegerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/IntegerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java1012/ScannerExample/src/com/company/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ScannerExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src/BasicConcepts" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ByteShortIntLong">
+  <component name="RunManager" selected="Application.Inheritance">
     <configuration name="ByteShortIntLong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicConcepts.ByteShortIntLong" />
       <module name="Java101" />
@@ -80,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicConcepts.FlowStatements" />
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Inheritance" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicConcepts.*" />
+          <option name="PATTERN" value="Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.ByteShortIntLong" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ScannerExample" />
         <item itemvalue="Application.IntegerExample" />
-        <item itemvalue="Application.FlowStatements" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612388488468</updated>
-      <workItem from="1612388490626" duration="2555000" />
+      <workItem from="1612388490626" duration="6290000" />
     </task>
     <servers />
   </component>
@@ -177,6 +163,12 @@
       <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state x="698" y="333" key="#com.intellij.fileTypes.FileTypeChooser/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.992@0.23.1920.992" timestamp="1612388850054" />
+    <state x="2688" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1612399068128">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2688" y="229" key="#com.intellij.ide.util.MemberChooser/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.991@1920.23.1920.1057" timestamp="1612399068128" />
+    <state x="2688" y="229" key="#com.intellij.ide.util.MemberChooser/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.992@1920.23.1920.1057" timestamp="1612398545621" />
+    <state x="2688" y="229" key="#com.intellij.ide.util.MemberChooser/3840.-17.1792.1097/1920.23.1920.1057/0.23.1920.994@1920.23.1920.1057" timestamp="1612395294946" />
     <state width="1750" height="257" key="GridCell.Tab.0.bottom" timestamp="1612391275966">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
