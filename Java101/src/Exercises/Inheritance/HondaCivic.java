@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises.Inheritance;
 
 public class HondaCivic extends Car {
   private int price;

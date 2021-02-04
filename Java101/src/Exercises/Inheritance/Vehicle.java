@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises.Inheritance;
 
 import java.lang.reflect.Constructor;
 
