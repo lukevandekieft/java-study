@@ -8,5 +8,9 @@ public class Main {
     basicBurger.addAvocado();
     System.out.println(basicBurger.getPrice());
     System.out.println(basicBurger.getFullPrice());
+
+    HealthyBurger healthyBurger = new HealthyBurger("Turkey", 550);
+    System.out.println(healthyBurger.getPrice());
+    healthyBurger.addCheese();
   }
 }
