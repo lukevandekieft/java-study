@@ -15,6 +15,15 @@ public class ArrayAndList {
     String[] stringArray = new String[5]; // [null, null, null, null, null]
     System.out.println(Arrays.toString(stringArray));
     // NOTE: String & Object default null, boolean false, int 0
+
+    int[] initialArray = new int[5];
+    int[] secondArray = initialArray;
+    System.out.println("Initial Array: " + Arrays.toString(initialArray));
+    System.out.println("Second Array: " + Arrays.toString(initialArray));
+    secondArray[2] = 19483;
+    System.out.println("Initial Array after 2nd updated: " + Arrays.toString(initialArray));
+    // NOTE: Strings and Arrays are reference types, not value types. That means that any variables created off a reference type will all point to the same address in memory and ALL will change on edits.
+    // DEREFERENCING:
   }
 }
 
