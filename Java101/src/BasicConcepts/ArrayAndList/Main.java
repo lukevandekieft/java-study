@@ -1,8 +1,8 @@
-package BasicConcepts;
+package BasicConcepts.ArrayAndList;
 
 import java.util.Arrays;
 
-public class ArrayAndList {
+public class Main {
   public static void main(String[] args) {
     int[] intArray = new int[5]; // [0, 0, 0, 0, 0]
     System.out.println(Arrays.toString(intArray)); // NOTE: sout(array) returns an object hash. Arrays.toString() is needed for output
@@ -23,7 +23,9 @@ public class ArrayAndList {
     secondArray[2] = 19483;
     System.out.println("Initial Array after 2nd updated: " + Arrays.toString(initialArray));
     // NOTE: Strings and Arrays are reference types, not value types. That means that any variables created off a reference type will all point to the same address in memory and ALL will change on edits.
-    // DEREFERENCING:
+    // DE-REFERENCING: removing all pointers to an object so it gets cleared for garbage collection
+
+
   }
 }
 
