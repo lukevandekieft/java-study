@@ -25,7 +25,6 @@ public class Main {
     // NOTE: Strings and Arrays are reference types, not value types. That means that any variables created off a reference type will all point to the same address in memory and ALL will change on edits.
     // DE-REFERENCING: removing all pointers to an object so it gets cleared for garbage collection
 
-
   }
 }
 

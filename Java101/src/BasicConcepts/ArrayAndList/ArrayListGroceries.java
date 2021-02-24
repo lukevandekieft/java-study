@@ -19,4 +19,21 @@ public class ArrayListGroceries {
   public void modifyGroceryItem(int position, String newItem) {
     groceryList.set(position, newItem);
   }
+
+  public String findItem(String searchItem) {
+//    boolean exists = groceryList.contains(searchItem);  <-- example for checking if it contains element
+    int position = groceryList.indexOf(searchItem);
+    if (position >= 0) {
+      return groceryList.get(position);
+    }
+    return null;
+  }
+
+  public ArrayList<String> copyArrayList(ArrayList<String> oldArrayList) {
+    ArrayList<String> newArrayList = new ArrayList<String>();
+    newArrayList.addAll(oldArrayList);
+
+    // OR: ArrayList<String> newArrayList = new ArrayList<String>(oldArrayList);
+    return newArrayList;
+  }
 }
