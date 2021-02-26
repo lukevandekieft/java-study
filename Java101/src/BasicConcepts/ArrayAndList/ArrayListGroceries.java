@@ -30,6 +30,7 @@ public class ArrayListGroceries {
   }
 
   public ArrayList<String> copyArrayList(ArrayList<String> oldArrayList) {
+    // ArrayList<int> variable    <-- throws error "type cannot be primitive" - array lists need classes
     ArrayList<String> newArrayList = new ArrayList<String>();
     newArrayList.addAll(oldArrayList);
 

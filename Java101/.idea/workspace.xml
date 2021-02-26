@@ -4,7 +4,6 @@
     <list default="true" id="d46a2d91-6c09-4b3f-aff8-806fb4636232" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BasicConcepts/ArrayAndList/ArrayListGroceries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ArrayAndList/ArrayListGroceries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicConcepts/ArrayAndList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicConcepts/ArrayAndList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,19 +141,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ArrayAndList" />
@@ -183,7 +169,8 @@
       <workItem from="1613668721749" duration="30000" />
       <workItem from="1613779148507" duration="169000" />
       <workItem from="1614099643456" duration="2519000" />
-      <workItem from="1614188113227" duration="983000" />
+      <workItem from="1614188113227" duration="2160000" />
+      <workItem from="1614272988301" duration="1747000" />
     </task>
     <servers />
   </component>
